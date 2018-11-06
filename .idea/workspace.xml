@@ -1,7 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/multiclass/transferLearner.py" line="300" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="31bed3ca-57c8-4c53-b513-38a331fc8421" name="Default" comment="" />
+    <list default="true" id="31bed3ca-57c8-4c53-b513-38a331fc8421" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/craw_dpm_text.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/dpm_img_download.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/imgDownloader.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/mma_img_download.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/request_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/test_crawText.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/test_imageDownloader.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/featureExtracter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/imagePreprocessor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/1645.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/1969.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/2335.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/2337.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/3878.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/4413.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/4465.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/4468.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/4476.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/ceramics/1969.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/ceramics/4468.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/ceramics/4476.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/enamels/4465.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/paints/1645.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/sculptures/2337.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/sculptures/3878.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/sculptures/4413.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/seals/2335.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/in.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/out.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/split/cls1/3878.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/split/cls1/4413.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/split/cls2/4468.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/split/cls2/4476.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/ceramics/1969.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/ceramics/4468.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/ceramics/4476.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/enamels/4465.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/paints/1645.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/sculptures/2337.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/sculptures/3878.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/sculptures/4413.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/seals/2335.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/test_featureExtractor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/test_imagePrecessor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/clf.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/dpmDataset.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/embedding_16" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/hog" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/hsv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/hu" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/lbp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/resnet50_ft" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/modelUtil.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/test_modelUtil.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/test_multiClass.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/test_multiClassDataset.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/test_transferLearner.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/transferLearner.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/multilabel/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/db_tool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils/static.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/spider_learn.iml" afterPath="$PROJECT_DIR$/.idea/spider_learn.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/mma/crawel_mma_era_metadata.py" afterPath="$PROJECT_DIR$/crawel/crawel_mma_era_metadata.py" />
+      <change beforePath="$PROJECT_DIR$/mma/email_me.py" afterPath="$PROJECT_DIR$/crawel/email_me.py" />
+      <change beforePath="$PROJECT_DIR$/mma/mma_img_download.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/mma/request_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/__init__.py" afterPath="$PROJECT_DIR$/crawel/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/__init__.py" afterPath="$PROJECT_DIR$/img_precess/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/config_type_metadata.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/crawel_cangpinmulu_metadata.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/crawel_minghuaji_metadata.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/crawel_type_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/download_minghuaji_img.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/download_type_img.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/bamboos.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/bronzes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/ceramic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/clocks.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/defenses.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/embroiders.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/enamels.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/foreigns.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/gears.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/glasses.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/handwritings.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/impress.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/jades.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/jewelrys.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/lacquerwares.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/musics.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/paints.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/religions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/sculptures.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/seals.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/studies.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/tinwares.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/utensils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/__init__.py" afterPath="$PROJECT_DIR$/multiclass/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/create_train_validation_test_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/create_type_classfied_dir.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/download_taibiegugong_img_low_solution.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/download_taibiegugong_img_zip.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/note" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/taibeigugong_high_solution_pic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/test_mongo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/type_to_item_list.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/zhihu_hot_topic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/zhihu_today_hot_topic.py" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,122 +126,79 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="download_type_img.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider_base/dpm/download_type_img.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crawel_minghuaji_metadata.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider_base/dpm/crawel_minghuaji_metadata.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crawel_cangpinmulu_metadata.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider_base/dpm/crawel_cangpinmulu_metadata.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1820">
-              <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
-              <folding>
-                <element signature="e#14#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mma_img_download.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mma/mma_img_download.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="request_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mma/request_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crawel_mma_era_metadata.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mma/crawel_mma_era_metadata.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config_type_metadata.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider_base/dpm/config_type_metadata.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4472">
-              <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crawel_type_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider_base/dpm/crawel_type_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1508">
-              <caret line="58" column="14" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="download_minghuaji_img.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider_base/dpm/download_minghuaji_img.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="structures.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/anaconda/envs/spider/Lib/site-packages/requests/structures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1300">
-              <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="transferLearner.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/multiclass/transferLearner.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="216">
+                  <caret line="300" column="46" lean-forward="true" selection-start-line="300" selection-start-column="46" selection-end-line="300" selection-end-column="46" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="clf.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/multiclass/clf.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="501">
+                  <caret line="185" column="34" lean-forward="true" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="dpmDataset.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/multiclass/dpmDataset.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="420">
+                  <caret line="188" column="44" lean-forward="false" selection-start-line="188" selection-start-column="44" selection-end-line="188" selection-end-column="44" />
+                  <folding>
+                    <element signature="e#0#18#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="modelUtil.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/multiclass/modelUtil.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="26">
+                  <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="clf.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/multiclass/clf.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3325">
+                  <caret line="187" column="23" lean-forward="false" selection-start-line="187" selection-start-column="23" selection-end-line="187" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                    <marker date="1541486206722" expanded="true" signature="3903:4087" ph="..." />
+                    <marker date="1541486206722" expanded="true" signature="4013:4087" ph="..." />
+                    <marker date="1541486206722" expanded="true" signature="4160:4679" ph="..." />
+                    <marker date="1541486206722" expanded="true" signature="4569:4679" ph="..." />
+                    <marker date="1541486206722" expanded="true" signature="4757:6373" ph="..." />
+                    <marker date="1541486206722" expanded="true" signature="5322:5363" ph="..." />
+                    <marker date="1541486206722" expanded="true" signature="6515:6968" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -144,47 +217,17 @@
       <find>exce</find>
       <find>已爬取</find>
       <find>已经爬取完成</find>
+      <find>dire</find>
+      <find>Trainable params</find>
+      <find>No</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spider_base/store_mongo.py" />
-        <option value="$PROJECT_DIR$/spider_base/zhihu_hot_topic.py" />
-        <option value="$PROJECT_DIR$/spider_base/zhihu_today_hot_topic.py" />
-        <option value="$PROJECT_DIR$/spider_base/aa.html" />
-        <option value="$PROJECT_DIR$/spider_base/taibeigugong_high_solution_pic.py" />
-        <option value="$PROJECT_DIR$/spider_base/download_taibiegugong_img_zip.py" />
-        <option value="$PROJECT_DIR$/spider_base/note" />
-        <option value="$PROJECT_DIR$/spider_base/type_to_item_list.py" />
-        <option value="$PROJECT_DIR$/spider_base/download_taibiegugong_img_low_solution.py" />
-        <option value="$PROJECT_DIR$/spider_base/create_type_classfied_dir.py" />
-        <option value="$PROJECT_DIR$/spider_base/create_train_validation_test_data.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/ceramic.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/paints.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/handwritings.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/impress.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/bronzes.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/enamels.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/lacquerwares.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/sculptures.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/tinwares.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/jades.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/glasses.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/bamboos.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/religions.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/defenses.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/musics.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/utensils.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/foreigns.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/seals.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/embroiders.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/studies.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/gears.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/clocks.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/jewelrys.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/metadata.py" />
-        <option value="$PROJECT_DIR$/spider_base/dpm/minghuaji-crawel_metadata.py" />
         <option value="$PROJECT_DIR$/spider_base/dpm/minghuaji_crawel_metadata.py" />
         <option value="$PROJECT_DIR$/spider_base/dpm/cangpinmulu_crawel_metadata.py" />
         <option value="$PROJECT_DIR$/spider_base/dpm/download_minghuaji_img.py" />
@@ -193,17 +236,57 @@
         <option value="$PROJECT_DIR$/mma/test_req.py" />
         <option value="$PROJECT_DIR$/mma/email.py" />
         <option value="$PROJECT_DIR$/mma/email_me.py" />
+        <option value="$PROJECT_DIR$/mma/crawel_mma_era_metadata.py" />
         <option value="$PROJECT_DIR$/mma/mma_img_download.py" />
         <option value="$PROJECT_DIR$/mma/request_test.py" />
-        <option value="$PROJECT_DIR$/mma/crawel_mma_era_metadata.py" />
+        <option value="$PROJECT_DIR$/crawel/dpm_img_download.py" />
+        <option value="$USER_HOME$/Downloads/rectangle_crop_1 .py" />
+        <option value="$USER_HOME$/Downloads/rectangle_crop_1.py" />
+        <option value="$PROJECT_DIR$/img_precess/rectangle_crop_boundingRect.py" />
+        <option value="$PROJECT_DIR$/img_precess/blur_crop_enhance.py" />
+        <option value="$PROJECT_DIR$/img_precess/test_get_normed_imset_from_raw.py" />
+        <option value="$PROJECT_DIR$/img_precess/test_get_normed_imset_from_disk.py" />
+        <option value="$PROJECT_DIR$/img_precess/img_precess.py" />
+        <option value="$PROJECT_DIR$/img_precess/models.py" />
+        <option value="$PROJECT_DIR$/img_precess/test_modelUtil.py" />
+        <option value="$PROJECT_DIR$/img_precess/extracter.py" />
+        <option value="$PROJECT_DIR$/img_precess/test_imagePrecessor.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/test_multiClass.py" />
+        <option value="$PROJECT_DIR$/crawel/test_crawText.py" />
+        <option value="$PROJECT_DIR$/crawel/craw_dpm_text.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/clf.py" />
+        <option value="$PROJECT_DIR$/img_precess/preprocessor.py" />
+        <option value="$PROJECT_DIR$/utils/logger.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/cpmpare_transferlearning.py" />
+        <option value="$PROJECT_DIR$/img_precess/modelUtil.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/bench.py" />
+        <option value="$PROJECT_DIR$/crawel/test_imageDownloader.py" />
+        <option value="$PROJECT_DIR$/crawel/imgDownloader.py" />
+        <option value="$PROJECT_DIR$/crawel/request_test.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/transferlearning.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/test_multiClassDataset.py" />
+        <option value="$PROJECT_DIR$/img_precess/test_featureExtractor.py" />
+        <option value="$PROJECT_DIR$/utils/db_tool.py" />
+        <option value="$PROJECT_DIR$/img_precess/featureExtracter.py" />
+        <option value="$PROJECT_DIR$/crawel/mma_img_download.py" />
+        <option value="$PROJECT_DIR$/utils/static.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/transferLearner.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/multiClassDataset.py" />
+        <option value="$PROJECT_DIR$/utils/clf.py" />
+        <option value="$PROJECT_DIR$/multiclass/multiclass/test_transferLearner.py" />
+        <option value="$PROJECT_DIR$/classification/multiclass/test_transferLearner.py" />
+        <option value="$PROJECT_DIR$/multiclass/test_transferLearner.py" />
+        <option value="$PROJECT_DIR$/multiclass/modelUtil.py" />
+        <option value="$PROJECT_DIR$/multiclass/clf.py" />
+        <option value="$PROJECT_DIR$/multiclass/transferLearner.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1042" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -220,28 +303,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="spider_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataset_spider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="spider_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="mma" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataset_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="multiclass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataset_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataset_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="multiclass" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../keras-2.1.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../multilabel-learn" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -253,13 +342,19 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git\dataset_spider\img_precess" />
+      <recent name="F:\git\dataset_spider\img_precess\img\all" />
+      <recent name="F:\git\dataset_spider\img_precess\img\split\cls2" />
+      <recent name="F:\git\dataset_spider\img_precess\img\split\cls1" />
+      <recent name="F:\git\learn\spider_learn\spider_base\dpm" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\git\dataset_spider\multiclass\model" />
+      <recent name="F:\git\dataset_spider\multiclass" />
+      <recent name="F:\git\dataset_spider\" />
       <recent name="F:\git\learn\spider_learn\spider_base\dpm\single_crawel" />
       <recent name="F:\git\learn\spider_learn\spider_base\taibeigugong" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\git\learn\spider_learn\spider_base\dpm" />
-      <recent name="F:\git\learn\spider_learn\spider_base" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,111 +369,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.crawel_mma_era_metadata">
-    <configuration name="crawel_mma_era_metadata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.transferLearner (1)">
+    <configuration name="clf (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mma" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider_learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mma/crawel_mma_era_metadata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiclass/clf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="download_type_img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="clf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider_base/dpm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider_learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider_base/dpm/download_type_img.py" />
+      <option name="SCRIPT_NAME" value="F:\git\dataset_spider\multiclass\clf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="email_me" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="multiClassDataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mma" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiclass/multiclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider_learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mma/email_me.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiclass/multiclass/multiClassDataset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mma_img_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="transferLearner (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mma" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider_learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mma/mma_img_download.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiclass/transferLearner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="request_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="transferLearner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mma" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiclass/multiclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider_learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mma/request_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiclass/multiclass/transferLearner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.download_type_img" />
-      <item index="1" class="java.lang.String" itemvalue="Python.mma_img_download" />
-      <item index="2" class="java.lang.String" itemvalue="Python.request_test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.email_me" />
-      <item index="4" class="java.lang.String" itemvalue="Python.crawel_mma_era_metadata" />
+      <item index="0" class="java.lang.String" itemvalue="Python.multiClassDataset" />
+      <item index="1" class="java.lang.String" itemvalue="Python.clf" />
+      <item index="2" class="java.lang.String" itemvalue="Python.transferLearner" />
+      <item index="3" class="java.lang.String" itemvalue="Python.clf (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.transferLearner (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.crawel_mma_era_metadata" />
-        <item index="1" class="java.lang.String" itemvalue="Python.request_test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mma_img_download" />
-        <item index="3" class="java.lang.String" itemvalue="Python.email_me" />
-        <item index="4" class="java.lang.String" itemvalue="Python.download_type_img" />
+        <item index="0" class="java.lang.String" itemvalue="Python.transferLearner (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.clf (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.clf" />
+        <item index="3" class="java.lang.String" itemvalue="Python.multiClassDataset" />
+        <item index="4" class="java.lang.String" itemvalue="Python.transferLearner" />
       </list>
     </recent_temporary>
   </component>
@@ -398,6 +493,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Twisted_Trial_for_test_featureExtractor_TestFeatureExtractor_test_get_jieba_cut_clear_text - 2018.11.04 at 18h 58m 50s.xml">
+      <configuration name="Twisted Trial for test_featureExtractor.TestFeatureExtractor.test_get_jieba_cut_clear_text" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_featureExtractor_TestFeatureExtractor_test_get_jiebacuttext_from_ids - 2018.11.04 at 14h 58m 23s.xml">
+      <configuration name="Twisted Trial for test_featureExtractor.TestFeatureExtractor.test_get_jiebacuttext_from_ids" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_featureExtractor_TestFeatureExtractor_test_get_jiebacuttext_from_ids - 2018.11.04 at 14h 59m 03s.xml">
+      <configuration name="Twisted Trial for test_featureExtractor.TestFeatureExtractor.test_get_jiebacuttext_from_ids" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_featureExtractor_TestFeatureExtractor_test_get_noun_from_text - 2018.11.04 at 18h 52m 45s.xml">
+      <configuration name="Twisted Trial for test_featureExtractor.TestFeatureExtractor.test_get_noun_from_text" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_featureExtractor_TestFeatureExtractor_test_get_noun_from_text - 2018.11.04 at 18h 53m 28s.xml">
+      <configuration name="Twisted Trial for test_featureExtractor.TestFeatureExtractor.test_get_noun_from_text" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_featureExtractor_TestFeatureExtractor_test_get_noun_from_text - 2018.11.04 at 18h 59m 13s.xml">
+      <configuration name="Twisted Trial for test_featureExtractor.TestFeatureExtractor.test_get_noun_from_text" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_featureExtractor_TestFeatureExtractor_test_get_nountext_from_ids - 2018.11.04 at 19h 18m 21s.xml">
+      <configuration name="Twisted Trial for test_featureExtractor.TestFeatureExtractor.test_get_nountext_from_ids" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_multiClassDataset_TestMultiClassDataset_test_get_f_word_sequences - 2018.11.04 at 17h 17m 00s.xml">
+      <configuration name="Twisted Trial for test_multiClassDataset.TestMultiClassDataset.test_get_f_word_sequences" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_multiClassDataset_TestMultiClassDataset_test_get_f_word_sequences - 2018.11.04 at 19h 09m 48s.xml">
+      <configuration name="Twisted Trial for test_multiClassDataset.TestMultiClassDataset.test_get_f_word_sequences" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_test_multiClassDataset_TestMultiClassDataset_test_get_f_word_sequences - 2018.11.04 at 19h 16m 03s.xml">
+      <configuration name="Twisted Trial for test_multiClassDataset.TestMultiClassDataset.test_get_f_word_sequences" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -408,26 +535,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15388769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13854167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21190476" sideWeight="0.5064795" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34313726" sideWeight="0.7284017" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3440476" sideWeight="0.49352053" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3642857" sideWeight="0.7284017" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2526998" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13834423" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2526998" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -458,375 +585,349 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/spider_base/dpm/crawel_type_data.py</url>
+          <url>file://$PROJECT_DIR$/old_spider/dpm/crawel_type_data.py</url>
           <line>47</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/download_taibiegugong_img_zip.py">
+    <entry file="file://$PROJECT_DIR$/img_precess/img/croped/paints/1645.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/croped/enamels/4465.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/croped/ceramics/4476.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/croped/ceramics/4468.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/croped/ceramics/1969.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/test/sculptures/4413.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/test/sculptures/3878.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/test/sculptures/2337.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/test/paints/1645.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/test/enamels/4465.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/test/ceramics/4476.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/test/ceramics/4468.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/img/test/ceramics/1969.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/test_imagePrecessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tf-gpu/Lib/site-packages/lxml/html/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23250">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tf-gpu/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="2153" column="42" lean-forward="false" selection-start-line="2153" selection-start-column="42" selection-end-line="2153" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiclass/multiclass/_trial_temp/test.jpg" />
+    <entry file="file://$PROJECT_DIR$/multiclass/multiclass/_trial_temp/vgg16_1_fake_hist.jpg" />
+    <entry file="file://$PROJECT_DIR$/multiclass/multiclass/_trial_temp/vgg16_1_fake hist.jpg" />
+    <entry file="file://E:/Anaconda3/envs/tf-gpu/Lib/site-packages/sklearn/svm/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="172" column="8" lean-forward="false" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiclass/multiclass/resnet50_1_fine tuning train hist.jpg" />
+    <entry file="file://$PROJECT_DIR$/multiclass/multiclass/vgg19_1_fine tuning train hist.jpg" />
+    <entry file="file://$PROJECT_DIR$/multiclass/multiclass/_trial_temp-1/resnet50_1_fake hist.jpg" />
+    <entry file="file://$PROJECT_DIR$/multiclass/test_multiClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawel/craw_dpm_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawel/test_crawText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawel/test_imageDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="59" column="28" lean-forward="false" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawel/imgDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1043">
+          <caret line="94" column="20" lean-forward="false" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawel/crawel_mma_era_metadata.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/__init__.py">
+    <entry file="file://$PROJECT_DIR$/crawel/request_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tf-gpu/Lib/site-packages/skimage/feature/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/python3.6/Lib/site-packages/pymongo/mongo_client.py" />
-    <entry file="file://E:/python3.6/Lib/site-packages/pymongo/collection.py" />
-    <entry file="file://$PROJECT_DIR$/spider_base/aa.html" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1350432662/builtins.py">
+    <entry file="file://$PROJECT_DIR$/multiclass/multiclass/bench.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1828">
-          <caret line="4130" column="8" lean-forward="false" selection-start-line="4130" selection-start-column="8" selection-end-line="4130" selection-end-column="8" />
+        <state relative-caret-position="190">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/zhihu_hot_topic.py">
+    <entry file="file://$PROJECT_DIR$/old_spider/taibeigugong/taibeigugong_high_solution_pic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="-457">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/zhihu_today_hot_topic.py">
+    <entry file="file://$PROJECT_DIR$/old_spider/taibeigugong/test_mongo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/test_mongo.py">
+    <entry file="file://$PROJECT_DIR$/old_spider/taibeigugong/type_to_item_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="-305">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/taibeigugong_high_solution_pic.py">
+    <entry file="file://$PROJECT_DIR$/old_spider/taibeigugong/zhihu_today_hot_topic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="-381">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/note">
+    <entry file="file://$PROJECT_DIR$/old_spider/taibeigugong/zhihu_hot_topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda3/envs/tf-gpu/Lib/site-packages/keras/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="755" column="22" lean-forward="false" selection-start-line="755" selection-start-column="22" selection-end-line="755" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/test_featureExtractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="87" column="13" lean-forward="false" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/featureExtracter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="340" column="16" lean-forward="false" selection-start-line="340" selection-start-column="16" selection-end-line="340" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/imagePreprocessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/db_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawel/mma_img_download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiclass/test_multiClassDataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiclass/test_transferLearner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1450">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiclass/modelUtil.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/type_to_item_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/download_taibiegugong_img_low_solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/bronzes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/ceramic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/clocks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/defenses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/embroiders.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/enamels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/foreigns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/gears.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/glasses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/handwritings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/impress.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/jades.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/jewelrys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/tinwares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/utensils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="36" column="47" lean-forward="true" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/studies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/seals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/sculptures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/religions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/paints.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="31" column="15" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/musics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/lacquerwares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/single_crawel/bamboos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/download_taibiegugong_img_zip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/anaconda/envs/spider/Lib/site-packages/pymongo/cursor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="569" column="0" lean-forward="false" selection-start-line="569" selection-start-column="0" selection-end-line="569" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/create_train_validation_test_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/taibeigugong/create_type_classfied_dir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="9" column="84" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/anaconda/envs/spider/Lib/site-packages/requests/structures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+          <caret line="87" column="42" lean-forward="false" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/download_minghuaji_img.py">
+    <entry file="file://$PROJECT_DIR$/multiclass/dpmDataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="188" column="44" lean-forward="false" selection-start-line="188" selection-start-column="44" selection-end-line="188" selection-end-column="44" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/config_type_metadata.py">
+    <entry file="file://$PROJECT_DIR$/multiclass/transferLearner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4472">
-          <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="300" column="46" lean-forward="true" selection-start-line="300" selection-start-column="46" selection-end-line="300" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/crawel_type_data.py">
+    <entry file="file://$PROJECT_DIR$/multiclass/clf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="58" column="14" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        <state relative-caret-position="501">
+          <caret line="185" column="34" lean-forward="true" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/crawel_minghuaji_metadata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/download_type_img.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider_base/dpm/crawel_cangpinmulu_metadata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1820">
-          <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
-          <folding>
-            <element signature="e#14#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mma/email_me.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mma/mma_img_download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mma/request_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mma/crawel_mma_era_metadata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
