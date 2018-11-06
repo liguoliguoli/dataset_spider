@@ -81,13 +81,13 @@ def mlp_clf(name, mlp, save_dir=r"I:\img\dpm\dataset\type_enhanced_1p3_split_tvt
     return trn_acc, val_acc, tst_acc
 
 
-def mlp_clf_n(n, name, mlp, save_dir=r"I:\img\dpm\dataset\type_enhanced_1p3_split_tvt", epoch=50, verbose=0, callback=[]):
+def mlp_clf_n(n, name, mlps, save_dir=r"I:\img\dpm\dataset\type_enhanced_1p3_split_tvt", epoch=50, verbose=0, callback=[]):
     """
     return means and std for acc of trn/val/tst
     """
     trn_accs, val_accs, tst_accs = [], [], []
     for i in range(n):
-        x, y, z = mlp_clf(name, mlp, save_dir=save_dir, epoch=epoch, verbose=verbose, callback=callback)
+        x, y, z = mlp_clf(name, mlps[i], save_dir=save_dir, epoch=epoch, verbose=verbose, callback=callback)
         trn_accs.append(x[1])
         val_accs.append(y[1])
         tst_accs.append(z[1])
@@ -196,11 +196,15 @@ if __name__ == '__main__':
     # print(accs)
     # col.insert_one({"mlp_mean_std": accs})
 
-    accs = []
-    for i in range(3):
-        acc = compose_test()
-        accs.append(acc)
-    print(accs)
-    col.insert_one({"composed_mean_std": accs})
-
-    pass
+    # accs = []
+    # for i in range(3):
+    #     acc = compose_test()
+    #     accs.append(acc)
+    # print(accs)
+    # col.insert_one({"composed_mean_std": accs})
+    #
+    # pass
+    mlps = [get_text_embeding(1000, 16, 100), get_text_embeding(1000, 16, 100), get_text_embeding(1000, 16, 100)]
+    res = mlp_clf_n(3, "desc_1000_100_plain", mlps)
+    print(res)
+    col.insert_one({"desc_1000_100_plain": res})

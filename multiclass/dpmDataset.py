@@ -109,7 +109,7 @@ class MultiClassDataset(object):
         print("get f_hog:", len(self.f_hog))
         return self.f_hog
 
-    def get_f_word_sequences(self, word_dict_size, padding_length):
+    def get_f_noun_sequences(self, word_dict_size, padding_length):
         """
         return dt_texts, sequences, padding_seq
         :param word_dict_size:
@@ -125,6 +125,35 @@ class MultiClassDataset(object):
         dt_texts = []
         for img_id in self.ids:
             dt_texts.append(id2noun_mp[img_id])
+        from keras.preprocessing.text import Tokenizer
+        from keras.preprocessing.sequence import pad_sequences
+        tokenizer = Tokenizer(num_words=word_dict_size, char_level=False, split=' ')
+        tokenizer.fit_on_texts(all_texts)
+        word_dict = list(tokenizer.word_index.items())
+        word_dict.sort(key=lambda x: x[1])
+        print(word_dict[:100])
+        sequences = tokenizer.texts_to_sequences(dt_texts)
+        padding_seq = pad_sequences(sequences, maxlen=padding_length)
+        return dt_texts, sequences, padding_seq
+
+    def get_f_word_sequences(self, word_dict_size, padding_length, key="nout_text"):
+        """
+        return dt_texts, sequences, padding_seq
+        :param word_dict_size:
+        :param padding_length:
+        :param key noun or plain text
+        :return:
+        """
+        key = "plain"
+        id2text = self.extractor.get_id2text_from_db()
+        all_texts = [x[key] for x in id2text]
+
+        id2text_mp = {}
+        for x in id2text:
+            id2text_mp[x["img_id"]] = x[key]
+        dt_texts = []
+        for img_id in self.ids:
+            dt_texts.append(id2text_mp[img_id])
         from keras.preprocessing.text import Tokenizer
         from keras.preprocessing.sequence import pad_sequences
         tokenizer = Tokenizer(num_words=word_dict_size, char_level=False, split=' ')
@@ -197,32 +226,32 @@ if __name__ == '__main__':
 
     #load all for test
 
-    trn_y = []
-    val_y = []
-    tst_y = []
-    for f in ["hog", "lbp", "resnet50", "hu", "resnet50_ft", "desc_1000_100", "hsv"]:
-        x, y, z = load(f)
-        trn_y.append(x["y"])
-        val_y.append(y["y"])
-        tst_y.append(z["y"])
-    trn_y = np.asarray(trn_y)
-    val_y = np.asarray(val_y)
-    tst_y = np.asarray(tst_y)
-    assert np.all(trn_y[0] == trn_y[1])
-    trn_y -= trn_y[0]
-    val_y -= val_y[0]
-    tst_y -= tst_y[0]
-    print(np.sum(np.abs(trn_y)))
+    # trn_y = []
+    # val_y = []
+    # tst_y = []
+    # for f in ["hog", "lbp", "resnet50", "hu", "resnet50_ft", "desc_1000_100", "hsv"]:
+    #     x, y, z = load(f)
+    #     trn_y.append(x["y"])
+    #     val_y.append(y["y"])
+    #     tst_y.append(z["y"])
+    # trn_y = np.asarray(trn_y)
+    # val_y = np.asarray(val_y)
+    # tst_y = np.asarray(tst_y)
+    # assert np.all(trn_y[0] == trn_y[1])
+    # trn_y -= trn_y[0]
+    # val_y -= val_y[0]
+    # tst_y -= tst_y[0]
+    # print(np.sum(np.abs(trn_y)))
 
 
     # dump all
 
-    # base_dir = r"I:\img\dpm\origin\type_enhanced_1p3_split_tvt"
-    # train_dir, val_dir, test_dir = [os.path.join(base_dir, x) for x in ["train", "val", "test"]]
-    # train_dt = MultiClassDataset(train_dir)
-    # val_dt = MultiClassDataset(val_dir)
-    # test_dt = MultiClassDataset(test_dir)
-    # dts = [train_dt, val_dt, test_dt]
+    base_dir = r"I:\img\dpm\origin\type_enhanced_1p3_split_tvt"
+    train_dir, val_dir, test_dir = [os.path.join(base_dir, x) for x in ["train", "val", "test"]]
+    train_dt = MultiClassDataset(train_dir)
+    val_dt = MultiClassDataset(val_dir)
+    test_dt = MultiClassDataset(test_dir)
+    dts = [train_dt, val_dt, test_dt]
     #
     # trained_mdoel = keras.models.load_model(r"I:\img\model\test4\2\resnet50_1\resnet50_1")
     # flatten_layer = trained_mdoel.get_layer("flatten_2")
@@ -233,5 +262,5 @@ if __name__ == '__main__':
     # dump("hu", dts)
     # dump("resnet50", dts, cnn_model=ResNet50(weights="imagenet", include_top=False, input_shape=(224, 224, 3)))
     # dump("resnet50_ft", dts,  cnn_model=cnn_model2)
-    # dump("desc_1000_100", dts, desc_dict_size=1000, desc_len=100)
+    dump("desc_1000_100_plain", dts, desc_dict_size=1000, desc_len=100)
     # dump("hsv", dts)

@@ -338,8 +338,17 @@ class FeatureExtractor(object):
     def get_nountext_from_ids(self, ids):
         return self.get_noun_from_texts(self.get_origin_texts_from_ids(ids))
 
-    def get_id2noun_from_db(self):
-        col = get_col("dpm_all", "id2noun")
+    def get_id2text_from_db(self):
+        col = get_col("dpm_all", "id2texts")
         return list(col.find())
 
 
+if __name__ == '__main__':
+    et = FeatureExtractor()
+    id2noun = et.get_id2noun_from_db()
+    ids = [x["img_id"] for x in id2noun]
+    all_text = et.get_jiebacuttext_from_ids(ids)
+    for i in range(len(id2noun)):
+        id2noun[i]["plain"] = all_text[i]
+    col = get_col("dpm_all", "id2texts")
+    col.insert_many(id2noun)

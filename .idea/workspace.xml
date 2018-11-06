@@ -5,118 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31bed3ca-57c8-4c53-b513-38a331fc8421" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/craw_dpm_text.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/dpm_img_download.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/imgDownloader.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/mma_img_download.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/request_test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/test_crawText.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/crawel/test_imageDownloader.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/featureExtracter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/imagePreprocessor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/1645.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/1969.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/2335.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/2337.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/3878.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/4413.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/4465.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/4468.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/all/4476.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/ceramics/1969.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/ceramics/4468.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/ceramics/4476.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/enamels/4465.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/paints/1645.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/sculptures/2337.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/sculptures/3878.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/sculptures/4413.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/croped/seals/2335.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/in.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/out.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/split/cls1/3878.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/split/cls1/4413.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/split/cls2/4468.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/split/cls2/4476.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/ceramics/1969.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/ceramics/4468.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/ceramics/4476.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/enamels/4465.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/paints/1645.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/sculptures/2337.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/sculptures/3878.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/sculptures/4413.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/img/test/seals/2335.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/test_featureExtractor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img_precess/test_imagePrecessor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/clf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/dpmDataset.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/embedding_16" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/hog" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/hsv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/hu" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/lbp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/model/resnet50_ft" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/modelUtil.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/test_modelUtil.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/test_multiClass.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/test_multiClassDataset.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/test_transferLearner.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multiclass/transferLearner.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/multilabel/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/db_tool.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/static.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/spider_learn.iml" afterPath="$PROJECT_DIR$/.idea/spider_learn.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/mma/crawel_mma_era_metadata.py" afterPath="$PROJECT_DIR$/crawel/crawel_mma_era_metadata.py" />
-      <change beforePath="$PROJECT_DIR$/mma/email_me.py" afterPath="$PROJECT_DIR$/crawel/email_me.py" />
-      <change beforePath="$PROJECT_DIR$/mma/mma_img_download.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mma/request_test.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/__init__.py" afterPath="$PROJECT_DIR$/crawel/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/__init__.py" afterPath="$PROJECT_DIR$/img_precess/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/config_type_metadata.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/crawel_cangpinmulu_metadata.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/crawel_minghuaji_metadata.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/crawel_type_data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/download_minghuaji_img.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/download_type_img.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/bamboos.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/bronzes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/ceramic.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/clocks.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/defenses.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/embroiders.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/enamels.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/foreigns.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/gears.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/glasses.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/handwritings.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/impress.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/jades.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/jewelrys.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/lacquerwares.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/musics.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/paints.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/religions.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/sculptures.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/seals.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/studies.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/tinwares.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/dpm/single_crawel/utensils.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/__init__.py" afterPath="$PROJECT_DIR$/multiclass/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/create_train_validation_test_data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/create_type_classfied_dir.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/download_taibiegugong_img_low_solution.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/download_taibiegugong_img_zip.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/note" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/taibeigugong_high_solution_pic.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/test_mongo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/type_to_item_list.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/zhihu_hot_topic.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spider_base/taibeigugong/zhihu_today_hot_topic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img_precess/featureExtracter.py" afterPath="$PROJECT_DIR$/img_precess/featureExtracter.py" />
+      <change beforePath="$PROJECT_DIR$/multiclass/clf.py" afterPath="$PROJECT_DIR$/multiclass/clf.py" />
+      <change beforePath="$PROJECT_DIR$/multiclass/dpmDataset.py" afterPath="$PROJECT_DIR$/multiclass/dpmDataset.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -142,8 +33,8 @@
           <file leaf-file-name="clf.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/multiclass/clf.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="501">
-                  <caret line="185" column="34" lean-forward="true" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+                <state relative-caret-position="311">
+                  <caret line="204" column="5" lean-forward="true" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
                   </folding>
@@ -154,11 +45,21 @@
           <file leaf-file-name="dpmDataset.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/multiclass/dpmDataset.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="188" column="44" lean-forward="false" selection-start-line="188" selection-start-column="44" selection-end-line="188" selection-end-column="44" />
+                <state relative-caret-position="273">
+                  <caret line="258" column="5" lean-forward="true" selection-start-line="258" selection-start-column="5" selection-end-line="258" selection-end-column="5" />
                   <folding>
                     <element signature="e#0#18#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="featureExtracter.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/img_precess/featureExtracter.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="344">
+                  <caret line="340" column="20" lean-forward="true" selection-start-line="340" selection-start-column="20" selection-end-line="340" selection-end-column="20" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -184,13 +85,13 @@
                   <caret line="187" column="23" lean-forward="false" selection-start-line="187" selection-start-column="23" selection-end-line="187" selection-end-column="23" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
-                    <marker date="1541486206722" expanded="true" signature="3903:4087" ph="..." />
-                    <marker date="1541486206722" expanded="true" signature="4013:4087" ph="..." />
-                    <marker date="1541486206722" expanded="true" signature="4160:4679" ph="..." />
-                    <marker date="1541486206722" expanded="true" signature="4569:4679" ph="..." />
-                    <marker date="1541486206722" expanded="true" signature="4757:6373" ph="..." />
-                    <marker date="1541486206722" expanded="true" signature="5322:5363" ph="..." />
-                    <marker date="1541486206722" expanded="true" signature="6515:6968" ph="..." />
+                    <marker date="1541509785085" expanded="true" signature="3908:4092" ph="..." />
+                    <marker date="1541509785085" expanded="true" signature="4018:4092" ph="..." />
+                    <marker date="1541509785085" expanded="true" signature="4165:4684" ph="..." />
+                    <marker date="1541509785085" expanded="true" signature="4574:4684" ph="..." />
+                    <marker date="1541509785085" expanded="true" signature="4762:6378" ph="..." />
+                    <marker date="1541509785085" expanded="true" signature="5327:5368" ph="..." />
+                    <marker date="1541509785085" expanded="true" signature="6520:6992" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -228,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spider_base/dpm/minghuaji_crawel_metadata.py" />
         <option value="$PROJECT_DIR$/spider_base/dpm/cangpinmulu_crawel_metadata.py" />
         <option value="$PROJECT_DIR$/spider_base/dpm/download_minghuaji_img.py" />
         <option value="$PROJECT_DIR$/spider_base/dpm/crawel_type_data.py" />
@@ -267,7 +167,6 @@
         <option value="$PROJECT_DIR$/multiclass/multiclass/test_multiClassDataset.py" />
         <option value="$PROJECT_DIR$/img_precess/test_featureExtractor.py" />
         <option value="$PROJECT_DIR$/utils/db_tool.py" />
-        <option value="$PROJECT_DIR$/img_precess/featureExtracter.py" />
         <option value="$PROJECT_DIR$/crawel/mma_img_download.py" />
         <option value="$PROJECT_DIR$/utils/static.py" />
         <option value="$PROJECT_DIR$/multiclass/multiclass/transferLearner.py" />
@@ -277,8 +176,10 @@
         <option value="$PROJECT_DIR$/classification/multiclass/test_transferLearner.py" />
         <option value="$PROJECT_DIR$/multiclass/test_transferLearner.py" />
         <option value="$PROJECT_DIR$/multiclass/modelUtil.py" />
-        <option value="$PROJECT_DIR$/multiclass/clf.py" />
         <option value="$PROJECT_DIR$/multiclass/transferLearner.py" />
+        <option value="$PROJECT_DIR$/img_precess/featureExtracter.py" />
+        <option value="$PROJECT_DIR$/multiclass/dpmDataset.py" />
+        <option value="$PROJECT_DIR$/multiclass/clf.py" />
       </list>
     </option>
   </component>
@@ -369,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.transferLearner (1)">
+  <component name="RunManager" selected="Python.clf (1)">
     <configuration name="clf (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -406,19 +307,37 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="multiClassDataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dpmDataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiclass/multiclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiclass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider_learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiclass/multiclass/multiClassDataset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiclass/dpmDataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="featureExtracter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/img_precess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="spider_learn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/img_precess/featureExtracter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -442,38 +361,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="transferLearner" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiclass/multiclass" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spider_learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiclass/multiclass/transferLearner.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.multiClassDataset" />
-      <item index="1" class="java.lang.String" itemvalue="Python.clf" />
-      <item index="2" class="java.lang.String" itemvalue="Python.transferLearner" />
-      <item index="3" class="java.lang.String" itemvalue="Python.clf (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.transferLearner (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.clf" />
+      <item index="1" class="java.lang.String" itemvalue="Python.clf (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.transferLearner (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.featureExtracter" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dpmDataset" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.transferLearner (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.clf (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.clf" />
-        <item index="3" class="java.lang.String" itemvalue="Python.multiClassDataset" />
-        <item index="4" class="java.lang.String" itemvalue="Python.transferLearner" />
+        <item index="0" class="java.lang.String" itemvalue="Python.clf (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dpmDataset" />
+        <item index="2" class="java.lang.String" itemvalue="Python.featureExtracter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.transferLearner (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.clf" />
       </list>
     </recent_temporary>
   </component>
@@ -826,16 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img_precess/featureExtracter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="340" column="16" lean-forward="false" selection-start-line="340" selection-start-column="16" selection-end-line="340" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img_precess/imagePreprocessor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -904,16 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiclass/dpmDataset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="188" column="44" lean-forward="false" selection-start-line="188" selection-start-column="44" selection-end-line="188" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/multiclass/transferLearner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -922,10 +803,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img_precess/featureExtracter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="340" column="20" lean-forward="true" selection-start-line="340" selection-start-column="20" selection-end-line="340" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiclass/dpmDataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="258" column="5" lean-forward="true" selection-start-line="258" selection-start-column="5" selection-end-line="258" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/multiclass/clf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="185" column="34" lean-forward="true" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+        <state relative-caret-position="311">
+          <caret line="204" column="5" lean-forward="true" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
